@@ -31,7 +31,18 @@ def hangman():
         if all(letter in guess_letters for letter in word):
             print("you won the game".upper())
             print("Word: " ,word.upper())
-            break
+            play_again = input("\ntype yes if you want to play again : ")
+            if(play_again == "yes"):
+                    hangman()
+            else:
+                   exit()
     else:
         print("you lost!! the correct word was",word.upper())
+        play_again = input("\ntype yes if you want to play again : ")
+        if(play_again == "yes"):
+                    hangman()
+        else:
+                  exit()
+    exit
 hangman()
+
