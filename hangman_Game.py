@@ -3,7 +3,7 @@ word = ["python","html","css","java","javascript","react"]
 def choose_word():
     return random.choice(word)
 def display_word(word,guess_letters):
-    return"".join(letter if letter in guess_letters else "_" for letter in word )
+    return" ".join(letter if letter in guess_letters else "_" for letter in word )
 def hangman():
     print("\n** Welcome to the hangman game**")
     word = choose_word()
