@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+    <title>{% block title%}my website{% endblock %}</title>
+    <style>
+        body{ font-family:Arial, Helvetica, sans-serif ;  padding: 20px;}
+        header{background:pink; color: purple ; padding: 10px ;}
+        footer{background : yellow ; padding: 10px; margin-top : 20px  }
+    </style>
+</head>
+<body>
+    <header>
+        <h2>my site</h2>
+    </header>
+    
+    <nav>
+        <a href="/">home</a><br>
+        <a href="/about">about us </a>
+    </nav>
+    {% block content%}{% endblock%}
+    <footer>
+        <p> THANK YOU </p>
+    </footer>
+</body>
+</html>
