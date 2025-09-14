@@ -1,5 +1,8 @@
 import pandas as pd
 
+# this code consists --data manupilation(add,update,delete)
+#                    -- data analysis(agrregate function,joins,grouping merging sorting ets) using pandas
+
 # data = {
 #     "name":["aditi","purv","aayushi","riddhi","shaily","vaibhav"],
 #     "age":[21,20,21,24,27,25],
