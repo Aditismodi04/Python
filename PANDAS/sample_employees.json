@@ -1,0 +1,92 @@
+[
+    {
+        "EmployeeID":101,
+        "Name":"Aditi Shah",
+        "Department":"IT",
+        "JoiningDate":"2020-05-10",
+        "Age":23,
+        "Salary":45000.5,
+        "City":"Ahmedabad"
+    },
+    {
+        "EmployeeID":102,
+        "Name":"Raj Patel",
+        "Department":"HR",
+        "JoiningDate":"2019-03-15",
+        "Age":27,
+        "Salary":38000.0,
+        "City":"Surat"
+    },
+    {
+        "EmployeeID":103,
+        "Name":"Meera Joshi",
+        "Department":"Finance",
+        "JoiningDate":"2021-07-20",
+        "Age":25,
+        "Salary":52000.75,
+        "City":"Vadodara"
+    },
+    {
+        "EmployeeID":104,
+        "Name":"Karan Mehta",
+        "Department":"IT",
+        "JoiningDate":"2018-01-25",
+        "Age":29,
+        "Salary":60000.0,
+        "City":"Rajkot"
+    },
+    {
+        "EmployeeID":105,
+        "Name":"Neha Singh",
+        "Department":"Marketing",
+        "JoiningDate":"2022-11-01",
+        "Age":24,
+        "Salary":40000.0,
+        "City":"Ahmedabad"
+    },
+    {
+        "EmployeeID":106,
+        "Name":"Amit Desai",
+        "Department":"HR",
+        "JoiningDate":"2020-09-12",
+        "Age":28,
+        "Salary":42000.25,
+        "City":"Surat"
+    },
+    {
+        "EmployeeID":107,
+        "Name":"Riya Kapoor",
+        "Department":"Finance",
+        "JoiningDate":"2019-06-18",
+        "Age":26,
+        "Salary":51000.0,
+        "City":"Vadodara"
+    },
+    {
+        "EmployeeID":108,
+        "Name":"Dhruv Shah",
+        "Department":"IT",
+        "JoiningDate":"2021-02-05",
+        "Age":22,
+        "Salary":47000.0,
+        "City":"Ahmedabad"
+    },
+    {
+        "EmployeeID":109,
+        "Name":"Priya Nair",
+        "Department":"Marketing",
+        "JoiningDate":"2017-12-10",
+        "Age":30,
+        "Salary":55000.0,
+        "City":"Rajkot"
+    },
+    {
+        "EmployeeID":110,
+        "Name":"Arjun Verma",
+        "Department":"Finance",
+        "JoiningDate":"2018-08-30",
+        "Age":31,
+        "Salary":65000.0,
+        "City":"Surat"
+    }
+]
